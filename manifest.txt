@@ -475,7 +475,7 @@ b4989a26b1d812bd4b362bbfbb1788362e65c5adcb0f378ba4bdacb90fdf606b  legacy-pages/j
 4a1803811e478ed648c2f6703041c78697b06cab9524736e12709e3cb5cde911  legacy-pages/js/import/import-export.js
 afacce0822402767b55d437b3687b0fda1f824b7e7b178e85498b054aa6e5bd9  legacy-pages/js/import/bitcoinjs.js
 67c283279373fa74c619b116ab12b188f0f5788a2ef32a94cb4793af166fcf11  legacy-pages/js/import/bitcoinjs.js.LICENSE.txt
-f97d67af2fc6d25762729a109922e0eb1aeba89a273c9a2e55fa768ca3a7dcde  legacy-pages/js/import/wallet-import.js
+e631e4f8079f360fac85e97df70ef9d8393b1f426850fddd6fbdf81a31fb2cb7  legacy-pages/js/import/wallet-import.js
 4229b6e7ac4b4647efc6a7edb817afe4190c5d52f0cad4e956bc76ad731f8e71  legacy-pages/js/import/wallet.js
 b0d8aaee2180ac4727406b06e3633a0f71e199324a21d6a666eefc88fb596854  legacy-pages/js/import/wallet.min.js
 3767c9a3d3ae4b722e7c55fe02cec203793d46457fede414e3fefe65126b9810  legacy-pages/js/import/bitcoinjs.min.js
